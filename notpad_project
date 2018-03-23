@@ -1,0 +1,35 @@
+<NotepadPlus>
+    <Project name="cubesat">
+        <File name="cubesat.ino" />
+        <File name="type.h" />
+        <File name="I2Cdev.h" />
+        <File name="I2Cdev.cpp" />
+        <File name="sensor.h" />
+        <File name="sensor.cpp" />
+        <File name="userRGB.h" />
+        <File name="userRGB.cpp" />
+        <File name="FM_Radio.h" />
+        <File name="FM_Radio.cpp" />
+        <File name="cam.h" />
+        <File name="cam.cpp" />
+        <File name="userPM2_5.h" />
+        <File name="userPM2_5.cpp" />
+        <File name="SHT31.h" />
+        <File name="SHT31.cpp" />
+        <File name="APDS9960_Gesture.h" />
+        <File name="APDS9960_Gesture.cpp" />
+        <File name="solar_panel_ctrl.h" />
+        <File name="solar_panel_ctrl.cpp" />
+        <Folder name="IMU">
+            <File name="MPU6050.h" />
+            <File name="MPU6050.cpp" />
+            <File name="uHMC5883L.h" />
+            <File name="uHMC5883L.cpp" />
+            <File name="BMP180.h" />
+            <File name="BMP180.cpp" />
+            <File name="KF_IMU.h" />
+            <File name="KF_IMU.cpp" />
+        </Folder>
+    </Project>
+    <Project name="MarsRoverRobot" />
+</NotepadPlus>
